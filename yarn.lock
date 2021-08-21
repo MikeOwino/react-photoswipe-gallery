@@ -14922,9 +14922,9 @@ __metadata:
   linkType: hard
 
 "photoswipe@dimsemenov/photoswipe#v5-beta":
-  version: 5.1.1
-  resolution: "photoswipe@https://github.com/dimsemenov/photoswipe.git#commit=f88404c3152819b24cf1a36777db0d1ed374dc08"
-  checksum: b8e470675c7a554b35e1b295778a10e22b119c2cb232289f8d60982d2e9429db5aa217cc87e8ea75d8471d689ca4eef896b4764cca0acd401cbea848694bf41a
+  version: 5.1.2
+  resolution: "photoswipe@https://github.com/dimsemenov/photoswipe.git#commit=afc1683f316107c9d10927e60679934d51fca5b0"
+  checksum: 9e7bef308e618e82c83795667dea6aaacd315dec665662bf66aa2ca1bd5fb079b377ba0f255069ee172a857a780092f144832d33264953b26964bd645f88f69d
   languageName: node
   linkType: hard
 
